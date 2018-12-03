@@ -1,4 +1,4 @@
-# react-todolist-demo
+# react-todolist-transition
 
 用 reactjs 完成的简易 todolist 和 transition 动画
 
